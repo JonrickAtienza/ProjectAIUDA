@@ -1,0 +1,14 @@
+Streamlit
+
+cd Eskwelabs\dsf11-sprint-1\Streamlit Hexagonals
+	streamlit run app.py 
+
+	https://docs.streamlit.io/library/api-reference
+
+
+
+Notes
+
+We need to transfer our presentation to there 
+
+May need to make jpegs of our updated charts
